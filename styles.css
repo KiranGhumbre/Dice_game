@@ -56,8 +56,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
- @media screen and (max-width:680px){
-    
+ @media screen and (max-width:720px){
+    img{
+      width:50vw;
+    }
      h1{
       font-size: 4rem;
      }

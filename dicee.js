@@ -1,8 +1,8 @@
-var player1= prompt("please enter 1st player's name");
+var player1= prompt("please enter 1st player name");
 document.querySelectorAll('p')[0].innerHTML=player1;
 
 
-var player2= prompt("please enter 2nd player's name");
+var player2= prompt("please enter 2nd player name");
 document.querySelectorAll('p')[1].innerHTML=player2;
 
 

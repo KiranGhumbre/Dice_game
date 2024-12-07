@@ -57,9 +57,7 @@ footer {
 
 }
  @media screen and (max-width:680px){
-     img{
-      width:40%;
-     }
+    
      h1{
       font-size: 4rem;
      }
